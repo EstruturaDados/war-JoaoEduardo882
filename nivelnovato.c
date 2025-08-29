@@ -13,7 +13,7 @@ typedef struct {
 
 int main() {
     printf("====================================\n");
-    printf(" WAR ESTRUTURADO - CADASTRO INICIAL \n");
+    printf(" WAR ESTRUTURADO - NIVEL NOVATO \n");
     printf("====================================\n");
 
     printf("Vamos cadastrar os 5 territorios iniciais do nosso mundo.\n");

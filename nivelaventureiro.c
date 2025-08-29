@@ -14,7 +14,7 @@ typedef struct {
 //Função para cadastrar os territórios com entrada do usuario
 void cadastrarTerritorios(Territorio *territorios) {
     printf("====================================\n");
-    printf(" WAR ESTRUTURADO - CADASTRO INICIAL \n");
+    printf(" WAR ESTRUTURADO - NIVEL AVENTUREIRO \n");
     printf("====================================\n");
 
     for(int i = 0; i < NUM_TERRITORIOS; i++) {
